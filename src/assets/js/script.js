@@ -753,23 +753,7 @@ var _0x779960 = _0x255f;
         'submitHandler': function(_0x436f9e) {
             var _0x42ab77 = _0x5c786d;
             return _0x6d6606[_0x42ab77(0x2b5)]({
-                'type': _0x42ab77(0x242),
-                'url': 'mail-contact.php',
-                'data': _0x6d6606(_0x436f9e)[_0x42ab77(0x1e9)](),
-                'success': function() {
-                    var _0x296e07 = _0x42ab77;
-                    _0x6d6606(_0x296e07(0x22f))[_0x296e07(0x2d5)](), _0x6d6606(_0x296e07(0x293))['slideDown']('slow'), setTimeout(function() {
-                        var _0x36a17d = _0x296e07;
-                        _0x6d6606(_0x36a17d(0x293))[_0x36a17d(0x1f1)](_0x36a17d(0x261));
-                    }, 0xbb8), _0x436f9e[_0x296e07(0x216)]();
-                },
-                'error': function() {
-                    var _0x25ad8a = _0x42ab77;
-                    _0x6d6606(_0x25ad8a(0x22f))[_0x25ad8a(0x2d5)](), _0x6d6606(_0x25ad8a(0x26c))[_0x25ad8a(0x23e)](_0x25ad8a(0x261)), setTimeout(function() {
-                        var _0x5e918f = _0x25ad8a;
-                        _0x6d6606(_0x5e918f(0x26c))[_0x5e918f(0x1f1)](_0x5e918f(0x261));
-                    }, 0xbb8);
-                }
+                
             }), ![];
         }
     });
